@@ -22,15 +22,25 @@ function BowlingList() {
             <tr>
               <th>Bowler Name</th>
               <th>Team Name</th>
-              <th>Other</th>
+              <th>Address</th>
+              <th>City</th>
+              <th>State</th>
+              <th>Zip</th>
+              <th>Phone Number</th>
             </tr>
           </thead>
           <tbody>
             {bowlData.map((f) => (
               <tr key={f.bowlerId}>
-                <td>{f.bowlerFirstName}</td>
-                <td>{f.teamId}</td>
+                <td>
+                  {f.bowlerFirstName} {f.bowlerMiddleInit} {f.bowlerLastName}
+                </td>
+                <td>{f.teamName}</td>
                 <td>{f.bowlerAddress}</td>
+                <td>{f.bowlerCity}</td>
+                <td>{f.bowlerState}</td>
+                <td>{f.bowlerZip}</td>
+                <td>{f.bowlerPhoneNumber}</td>
               </tr>
             ))}
           </tbody>

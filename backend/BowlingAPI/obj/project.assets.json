@@ -2996,11 +2996,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juan Fer\\Documents\\IS CORE\\WINTER24\\IS 413\\projects\\mission10\\backend\\BowlingAPI\\BowlingAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Juan Fer\\Documents\\IS CORE\\WINTER24\\IS 413\\projects\\mission10\\mission10_Orellana\\backend\\BowlingAPI\\BowlingAPI.csproj",
       "projectName": "BowlingAPI",
-      "projectPath": "C:\\Users\\Juan Fer\\Documents\\IS CORE\\WINTER24\\IS 413\\projects\\mission10\\backend\\BowlingAPI\\BowlingAPI.csproj",
+      "projectPath": "C:\\Users\\Juan Fer\\Documents\\IS CORE\\WINTER24\\IS 413\\projects\\mission10\\mission10_Orellana\\backend\\BowlingAPI\\BowlingAPI.csproj",
       "packagesPath": "C:\\Users\\Juan Fer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juan Fer\\Documents\\IS CORE\\WINTER24\\IS 413\\projects\\mission10\\backend\\BowlingAPI\\obj\\",
+      "outputPath": "C:\\Users\\Juan Fer\\Documents\\IS CORE\\WINTER24\\IS 413\\projects\\mission10\\mission10_Orellana\\backend\\BowlingAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juan Fer\\AppData\\Roaming\\NuGet\\NuGet.Config",
